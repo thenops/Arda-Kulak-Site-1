@@ -1,0 +1,59 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+
+body {
+	width: 100%;
+	margin: 0px;
+	background-image: url(https://media.giphy.com/media/YkOInyW8oZHPvI8aDW/giphy.gif);
+	background-repeat: repeat-y no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+.container{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    opacity: 0.7;
+    margin-left: 21%;
+    margin-top: 5%;
+    width: 60%;
+    border-radius: 15px;
+}
+
+ h2{
+    padding-top: 75px;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  h3{
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-top: 30px;
+    color: #861B1B;
+  }
+P{
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-top: 30px;
+    text-align: center;
+}
+
+  .menu ul li {
+      display: inline-block;
+  }
+  
+  .menu ul li a {
+    color: white;
+    display: block;
+    font-size: 14px;
+    padding: 5px 17px;
+    padding-top: 50px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-family: 'Roboto Condensed', sans-serif;
+
+  }
+  .menu li a:hover{
+    color: #861B1B;
+  }
+i{
+    padding: 5px;
+}
